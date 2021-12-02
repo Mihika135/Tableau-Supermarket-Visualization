@@ -12,8 +12,8 @@ This Repository contains the visualization of the Supermarket Sales of a store i
 ![Story (9)](https://user-images.githubusercontent.com/95414941/144410284-d7a56769-b68a-4711-b6d1-3b93fc910d5e.png)
 
 CONTRIBUTORS -
-1) Mihika Dakappagari
-2) Ruta Kulkarni
+1) Mihika Dakappagari (16010120076)
+2) Ruta Kulkarni (16010120081)
 
 ACKNOWLEDGEMENT 
 
